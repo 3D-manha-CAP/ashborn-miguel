@@ -1,0 +1,44 @@
+.container{
+    text-align: center;
+}
+.botoes{
+    display:flex;
+    padding-left: 35%;
+
+
+}
+.botao1{
+    background-color: aqua;
+    color: white;
+    border-radius: 5px;
+    border-color: aquamarine;
+    font-weight: 700;
+    margin: 2em;
+    padding: 0.5em;
+
+}
+.botao2{
+    background-color: aqua;
+    color: white;
+    border-radius: 5px;
+    border-color: aquamarine;
+    font-weight: 700;
+    margin: 2em;
+    padding: 0.5em;
+}.botao3{
+    background-color: aqua;
+    color: white;
+    border-radius: 5px;
+    border-color: aquamarine;
+    font-weight: 700;
+    margin: 2em;
+    padding: 0.5em;
+}.botao4{
+    background-color: aqua;
+    color: white;
+    border-radius: 5px;
+    border-color: aquamarine;
+    font-weight: 700;
+    margin: 2em;
+    padding: 0.5em;
+}
